@@ -1,0 +1,38 @@
+body{
+    background-color: #e6e6fa;
+}
+
+
+.texto{
+    text-align: center;
+    font-size: 150%
+}
+
+
+.container{
+    display: flex;
+    column-count: 3; /* número de columnas */
+    column-gap: 100px; /* ancho de columnas */
+    column-rule: 5px
+  
+}
+.cuadrado1{
+   background-color: #6495ed;
+   width: 234px;
+   height: 200px;
+}
+.cuadrado2{
+    background-color: #ffdead;
+    width: 234px;
+    height: 200px;
+ }
+ .cuadrado3{
+    background-color:	#8fbc8f;
+    width: 234px;
+    height: 200px;
+ }
+ .cuadrado4{
+    background-color: #ffb6c1;
+    width: 234px;
+    height: 200px;
+ }
